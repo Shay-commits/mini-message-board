@@ -1,4 +1,4 @@
 # mini-message-board
 
 
-https://git.heroku.com/mini-messageboard-2019.git
+https://mini-messageboard-2019.herokuapp.com/
